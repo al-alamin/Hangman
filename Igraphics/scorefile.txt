@@ -1,0 +1,28 @@
+300 40 md abdullah al alamin
+240 66 nafi
+0 0 nobody
+0 0 nobody
+145 200 muksuk ali
+
+0 0 nobody
+0 0 nobody
+311 22 subroto
+0 0 nobody
+0 0 nobody
+
+
+700 300 hasibul islam hasan
+0 0 nobody
+0 0 nobody
+0 0 nobody
+0 0 nobody
+
+
+100 20 alamin
+
+
+200 15 hasan asdjkljkl
+
+-10 42 NO NAME
+
+

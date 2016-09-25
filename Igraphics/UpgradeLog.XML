@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Igraphics">
+</Property><Property Name="Solution File" Value="J:\grphics project\Igraphics readymade for VS2008_2010\Igraphics\Igraphics.sln">
+</Property><Property Name="User Options File" Value="J:\grphics project\Igraphics readymade for VS2008_2010\Igraphics\Igraphics.suo">
+</Property><Property Name="Date" Value="Friday, March 7, 2014">
+</Property><Property Name="Time" Value="16:05 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Igraphics.sln" Description="File successfully backed up as J:\grphics project\Igraphics readymade for VS2008_2010\Igraphics\Igraphics.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="Igraphics.suo" Description="File successfully backed up as J:\grphics project\Igraphics readymade for VS2008_2010\Igraphics\Igraphics.suo.old">
+</Event><Event ErrorLevel="0" Project="Igraphics" Source="Igraphics.vcproj" Description="Converting project file 'J:\grphics project\Igraphics readymade for VS2008_2010\Igraphics\Igraphics.vcproj'.">
+</Event><Event ErrorLevel="1" Project="Igraphics" Source="Igraphics.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="Igraphics" Source="Igraphics.vcproj" Description="Done converting to new project file 'J:\grphics project\Igraphics readymade for VS2008_2010\Igraphics\Igraphics.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="Igraphics" Source="Igraphics.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Igraphics.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Igraphics.sln" Description="Converted">
+</Event></UpgradeLog>
